@@ -7,3 +7,5 @@ o personagem de forma automatizada deve varrer o mapa proposto pelo usuário em 
 Podemos traçar um paralelo com uma IA de um aspirador de pó.
 	
 Entrada: arquivos no formato txt.
+
+Plataforma: Windows
