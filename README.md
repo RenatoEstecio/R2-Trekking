@@ -8,4 +8,7 @@ Podemos traçar um paralelo com uma IA de um aspirador de pó.
 	
 Entrada: arquivos no formato txt.
 
-Plataforma: Windows
+Plataforma: Desktop
+
+Requisitos: 
+  - Windows 64bits
