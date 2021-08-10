@@ -8,8 +8,9 @@ Tecnologias:
   - Linguagem C 
   - Allegro 5
 
-Forma de entrada de dados: 
+Entrada: 
   - Arquivos no formato txt.
+  - Teclado
 
 Plataforma:
   - Desktop
