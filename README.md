@@ -6,7 +6,7 @@ Podemos traçar um paralelo com uma IA de um aspirador de pó.
 
 Tecnologias: 
   - Linguagem C 
-  - Allegro
+  - Allegro 5
 
 Forma de entrada de dados: 
   - Arquivos no formato txt.
